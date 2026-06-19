@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Mahesh Pawar 👋</h1>
-
 <p align="center">
   Computer Science student who learns by building things and breaking them.
 </p>
-
 <br/>
 
 ## About Me
@@ -30,7 +28,7 @@ These aren't technologies I've mastered — they're the ones I'm actively learni
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -46,7 +44,7 @@ These aren't technologies I've mastered — they're the ones I'm actively learni
 **Currently Exploring**
 
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B0082?style=flat-square)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -83,7 +81,7 @@ These aren't technologies I've mastered — they're the ones I'm actively learni
 I'm always open to talking about projects, DSA problems, or anything web dev / AI related.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MR1229-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MR1229)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-pawar-b35386358/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshpawar-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrpawar1229@gmail.com)
 
 <br/>
