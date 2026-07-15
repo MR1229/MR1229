@@ -15,8 +15,6 @@
 
 I'm currently pursuing my B.Tech in Computer Science Engineering in India. I spend most of my time writing code, reading about systems I don't fully understand yet, and slowly figuring them out by building small projects.
 
-I'm not chasing a specific title — I'm just trying to get genuinely good at building software, one project at a time.
-
 <br/>
 
 ## What I'm Currently Doing
