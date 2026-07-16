@@ -4,7 +4,6 @@
 <p align="center">
   Computer Science student who learns by building things and breaking them.
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MR1229&label=PROFILE%20VIEWS&color=F5A623&style=for-the-badge" alt="profile views" />
 </p>
