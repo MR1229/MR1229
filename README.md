@@ -1,98 +1,78 @@
 <p align="center">
   <img src="./assets/name-heading.svg" alt="Hi, I'm Mahesh Pawar" />
 </p>
+
 <p align="center">
-  Computer Science student who learns by building things and breaking them.
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MR1229&label=PROFILE%20VIEWS&color=F5A623&style=for-the-badge" alt="profile views" />
+  CSE undergrad who'd rather break something and rebuild it than read the docs cover to cover first.
 </p>
 
 <br/>
 
-## About Me
+### About
 
-I'm currently pursuing my B.Tech in Computer Science Engineering in India. I spend most of my time writing code, reading about systems I don't fully understand yet, and slowly figuring them out by building small projects.
+Third-year B.Tech CSE student. Most of what I know, I learned by shipping a small project, hitting a wall, and figuring out why — not from a course that told me the answer up front. Right now that means going deep on Java + DSA and building real MERN projects with actual data models behind them, not tutorial clones.
 
-<br/>
-
-## What I'm Currently Doing
-
-- 📘 Learning **Java**, with a focus on writing clean, correct code
-- 🧠 Practicing **Data Structures & Algorithms** in Java — consistency over intensity
-- 🌐 Building full-stack web apps with the **MERN stack** (MongoDB, Express, React, Node.js)
-- 🐍 Picking up **Python**, mostly through small scripts and side experiments
-- 🤖 Exploring **AI/ML** fundamentals — early days, but genuinely curious
+I care more about understanding a system end to end — how data actually moves from a form submission to a database row and back — than about knowing the name of every framework.
 
 <br/>
 
-## Tech I Work With
+### Currently
 
-These aren't technologies I've mastered — they're the ones I'm actively learning and using in real projects.
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Web Development**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Currently Exploring**
-
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B0082?style=flat-square&logo=leetcode&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- Writing DSA in Java, daily, optimizing for "can I explain why this works" over "did it pass"
+- Building full-stack apps on MERN with real schemas and edge cases, not boilerplate
+- Learning Python + SQL as the on-ramp to data engineering, which is where I want to be post-grad
+- Reading just enough AI/ML to know what questions to ask later
 
 <br/>
 
-## What Interests Me
+### Stack
 
-- Problems that have a clear right answer — that's why DSA hooked me before frameworks did
-- Building the whole thing myself: front end, back end, database, not just the pretty part
-- What happens to data after an app creates it — how it moves, where it's stored, how it gets used
-- Systems I actually understand end to end, not just the piece that shows up on screen
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="AI/ML" alt="AI/ML" width="40" height="40"/>
+</p>
 
 <br/>
 
-## Right Now, I'm Working Toward
-
-- Getting genuinely strong at Java + DSA — solving it right and being able to explain *why*, not just pattern-matching
-- Shipping a few real MERN projects with actual data models, not tutorial clones
-- Building Python and SQL as real skills, since that's my next step toward data engineering and then AI/ML
-- Writing code I'd hand to someone without an apology attached
-
-<br/>
-
-## GitHub Stats & Streak
+### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MR1229&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MR1229&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR1229&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1229&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MR1229&theme=default&hide_border=true" />
+  <img src="./assets/streak-stats.svg" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
-## Let's Connect
+### Working toward
 
-I'm always open to talking about projects, DSA problems, or anything web dev / AI related.
+- Genuine strength in Java + DSA, not memorized patterns
+- A couple of real MERN projects worth linking on a resume, each with a README that explains a decision, not just a feature list
+- Python + SQL solid enough to start data engineering work
+- My first few open-source PRs — currently the one gap in this profile
 
-[![GitHub](https://img.shields.io/badge/GitHub-MR1229-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MR1229)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshpawar-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrpawar1229@gmail.com)
+<br/>
+
+### Reach me
+
+[GitHub](https://github.com/MR1229) · [LinkedIn](https://linkedin.com/in/maheshpawar-dev/) · [Email](mailto:mrpawar1229@gmail.com)
 
 <br/>
 
 <p align="center">
-  <sub>This profile reflects where I am right now — it'll keep changing as I keep learning.</sub>
+  <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
 </p>
