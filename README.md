@@ -44,6 +44,18 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 
 <br/>
 
+### Contribution Activity
+
+<div align="center">
+  <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="./assets/snake.svg" alt="Contribution Snake" width="100%"/>
+</div>
+
+<br/>
+
 ### Working toward
 
 - Real strength in Java + DSA, not memorized patterns
