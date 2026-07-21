@@ -38,10 +38,6 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
   <img height="165" src="https://github-readme-stats-ashy-nine-92.vercel.app/api/top-langs/?username=MR1229&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
-<div align="center">
-  <img src="./assets/streak-stats.svg" alt="GitHub Streak Stats" />
-</div>
-
 <br/>
 
 ### Working toward
