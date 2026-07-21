@@ -26,20 +26,7 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 ### Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="AI/ML" alt="AI/ML" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mongodb,express,react,nodejs,git,github,mysql,docker,tensorflow&theme=dark" alt="Tech stack" />
 </p>
 
 <br/>
@@ -68,7 +55,17 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 
 ### Reach me
 
-[GitHub](https://github.com/MR1229) · [LinkedIn](https://linkedin.com/in/maheshpawar-dev/) · [Email](mailto:mrpawar1229@gmail.com)
+<p align="left">
+  <a href="https://github.com/MR1229" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/maheshpawar-dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mrpawar1229@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="40"/>
+  </a>
+</p>
 
 <br/>
 
