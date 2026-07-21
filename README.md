@@ -34,8 +34,8 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR1229&show_icons=true&theme=dark&hide_border=true&hide_title=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1229&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-ashy-nine-92.vercel.app/api?username=MR1229&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=percentile" />
+  <img height="165" src="https://github-readme-stats-ashy-nine-92.vercel.app/api/top-langs/?username=MR1229&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
 <div align="center">
