@@ -10,18 +10,16 @@
 
 ### About
 
-Third-year B.Tech CSE student. Most of what I know, I learned by shipping a small project, hitting a wall, and figuring out why — not from a course that told me the answer up front. Right now that means going deep on Java + DSA and building real MERN projects with actual data models behind them, not tutorial clones.
-
-I care more about understanding a system end to end — how data actually moves from a form submission to a database row and back — than about knowing the name of every framework.
+Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why. Right now that's Java + DSA and real MERN projects with actual data models, not tutorial clones.
 
 <br/>
 
 ### Currently
 
-- Writing DSA in Java, daily, optimizing for "can I explain why this works" over "did it pass"
-- Building full-stack apps on MERN with real schemas and edge cases, not boilerplate
-- Learning Python + SQL as the on-ramp to data engineering, which is where I want to be post-grad
-- Reading just enough AI/ML to know what questions to ask later
+- Writing DSA in Java daily — explaining why it works, not just passing
+- Building MERN apps with real schemas, not boilerplate
+- Learning Python + SQL as the on-ramp to data engineering
+- Reading enough AI/ML to know what to ask later
 
 <br/>
 
@@ -29,17 +27,18 @@ I care more about understanding a system end to end — how data actually moves 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="AI/ML" alt="AI/ML" width="40" height="40"/>
 </p>
 
@@ -48,8 +47,8 @@ I care more about understanding a system end to end — how data actually moves 
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR1229&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1229&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MR1229&show_icons=true&theme=dark&hide_border=true&hide_title=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1229&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
@@ -60,10 +59,10 @@ I care more about understanding a system end to end — how data actually moves 
 
 ### Working toward
 
-- Genuine strength in Java + DSA, not memorized patterns
-- A couple of real MERN projects worth linking on a resume, each with a README that explains a decision, not just a feature list
-- Python + SQL solid enough to start data engineering work
-- My first few open-source PRs — currently the one gap in this profile
+- Real strength in Java + DSA, not memorized patterns
+- A couple of MERN projects worth linking on a resume
+- Python + SQL solid enough for data engineering
+- First few open-source PRs — currently the gap
 
 <br/>
 
