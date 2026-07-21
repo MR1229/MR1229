@@ -36,22 +36,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate activity graph
-        uses: Ashutosh00710/github-readme-activity-graph@v1
-        with:
-          github_username: MR1229
-          theme: github-dark
-          output: assets/activity-graph.svg
-
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: MR1229
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Move snake output
-        run: mkdir -p assets && mv dist/github-contribution-grid-snake.svg assets/snake.svg || true
 
       - name: Commit updated assets
         uses: stefanzweifel/git-auto-commit-action@v5
