@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/name-heading.svg" alt="Hi, I'm Mahesh Pawar" />
+  <img src="https://readme-svg-typing-generator-yourname.vercel.app/api?lines=Mahesh+Pawar&animation=matrix&color=58A6FF&duration=3000" alt="Mahesh Pawar" />
 </p>
 
 <p align="center">
@@ -47,11 +47,15 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 ### Contribution Activity
 
 <div align="center">
-  <img src="./assets/activity-graph.svg" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph-lyart-three.vercel.app/graph?username=MR1229&theme=github-compact&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="./assets/snake.svg" alt="Contribution Snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
+    <img alt="Contribution snake animation" src="./assets/snake.svg" width="100%"/>
+  </picture>
 </div>
 
 <br/>
