@@ -1,4 +1,4 @@
-name: Generate Streak Stats
+name: Update Profile Assets
 
 on:
   schedule:
@@ -9,14 +9,15 @@ on:
       - main
 
 jobs:
-  streak:
+  update-assets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: DenverCoder1/github-readme-streak-stats-action@v1
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
         with:
           user_id: MR1229
           theme: dark
@@ -35,8 +36,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated streak SVG
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1
+        with:
+          github_username: MR1229
+          theme: github-dark
+          output: assets/activity-graph.svg
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: MR1229
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move snake output
+        run: mkdir -p assets && mv dist/github-contribution-grid-snake.svg assets/snake.svg || true
+
+      - name: Commit updated assets
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update streak stats"
-          file_pattern: assets/streak-stats.svg
+          commit_message: "chore: update profile assets"
+          file_pattern: assets/*.svg
