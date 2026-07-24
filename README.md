@@ -29,7 +29,7 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mongodb,express,react,nodejs,git,github,mysql,docker,tensorflow&theme=dark" alt="Tech stack" />
 </p>
 
-<br/>
+<hr/>
 
 ### GitHub Stats
 
@@ -45,7 +45,7 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
   <img src="https://github-streak-svg.vercel.app/api/streak?username=MR1229&theme=dark" alt="GitHub Streak Stats" />
 </div>
 
-<br/>
+<hr/>
 
 ### Working toward
 
@@ -54,7 +54,7 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 - Python + SQL solid enough for data engineering
 - First few open-source PRs — currently the gap
 
-<br/>
+<hr/>
 
 ### Reach me
 
@@ -71,6 +71,10 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="https://github-views-svg.vercel.app/api/views" alt="Profile Views" />
+</p>
 
 <p align="center">
   <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
