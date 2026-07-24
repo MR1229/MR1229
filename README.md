@@ -69,13 +69,11 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="40"/>
   </a>
 </p>
-
 <br/>
 
 <p align="center">
   <img src="https://github-views-svg.vercel.app/api/views" alt="Profile Views" />
 </p>
-
 <p align="center">
   <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
 </p>
