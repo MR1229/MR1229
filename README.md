@@ -81,9 +81,5 @@ _A couple of real projects are landing here soon — worth checking back._
 <br/>
 
 <p align="center">
-  <img src="https://github-views-svg.vercel.app/api/views" alt="Profile Views" />
-</p>
-
-<p align="center">
   <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
 </p>
