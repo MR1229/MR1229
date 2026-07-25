@@ -8,11 +8,11 @@
       letter-spacing: 8px;
     }
     .name {
-      font-family: 'Segoe UI', 'Helvetica Neue Condensed', Arial, sans-serif;
-      font-weight: 180;
-      font-size: 30px;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      font-weight: 300;
+      font-size: 34px;
       fill: #FFFFFF;
-      letter-spacing: 3px;
+      letter-spacing: 4px;
       text-transform: uppercase;
     }
     .rule { stroke: #5B9BD5; stroke-width: 1.5; opacity: 0.6; }
