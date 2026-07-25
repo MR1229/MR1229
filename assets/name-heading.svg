@@ -1,1 +1,23 @@
+<svg width="620" height="90" viewBox="0 0 620 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .greet {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-weight: 700;
+      font-size: 22px;
+      fill: #F4F4F5;
+      letter-spacing: 6px;
+    }
+    .name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-weight: 700;
+      font-size: 44px;
+      fill: #FFFFFF;
+      letter-spacing: 3px;
+    }
+    .rule { stroke: #FFFFFF; stroke-width: 1; opacity: 0.4; }
+  </style>
 
+  <text x="310" y="28" text-anchor="middle" class="greet">HELLO!</text>
+  <line x1="255" y1="42" x2="365" y2="42" class="rule"/>
+  <text x="310" y="78" text-anchor="middle" class="name">MAHESH PAWAR</text>
+</svg>
