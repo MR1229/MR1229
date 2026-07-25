@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  CSE undergrad who'd rather break something and rebuild it than read the docs cover to cover first.
+  <sub>CSE undergrad who'd rather break something and rebuild it than read the docs cover to cover first.</sub>
 </p>
 
 <br/>
@@ -11,6 +11,8 @@
 ### About
 
 Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why. Right now that's Java + DSA and real MERN projects with actual data models, not tutorial clones.
+
+I care more about understanding a system end to end than knowing the name of every framework — how data actually moves from a form submission to a database row and back.
 
 <br/>
 
@@ -28,6 +30,12 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mongodb,express,react,nodejs,git,github,mysql,docker,tensorflow&theme=dark" alt="Tech stack" />
 </p>
+
+<hr/>
+
+### Featured Work
+
+_A couple of real projects are landing here soon — worth checking back._
 
 <hr/>
 
@@ -69,11 +77,13 @@ Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" height="40"/>
   </a>
 </p>
+
 <br/>
 
 <p align="center">
   <img src="https://github-views-svg.vercel.app/api/views" alt="Profile Views" />
 </p>
+
 <p align="center">
   <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
 </p>
