@@ -18,7 +18,7 @@ Doing my B.Tech in Computer Science. Most of what I actually know didn't come fr
 
 - Java + DSA, daily — trying to actually explain *why* a solution works, not just get it accepted
 - MERN projects with real schemas and edge cases, not copy-pasted tutorial code
-- Picking up Spring Boot to go from MERN into proper Java full-stack
+- Learning Java full stack — Spring Boot and everything around it — to build the same kind of projects on the Java side that I've been building in MERN
 - Python + SQL on the side, mainly because data engineering is where I want to end up
 - Reading a bit of AI/ML here and there, just enough to not be lost later
 
@@ -57,7 +57,7 @@ Nothing linked here yet — a couple of projects are almost ready to be shown of
 ### Working on
 
 - Getting actually solid at Java + DSA, not pattern-matching my way through it
-- A couple of MERN (and soon Spring Boot) projects worth putting on a resume
+- MERN projects worth putting on a resume, and building the Java full-stack equivalent alongside them
 - Python + SQL to the point where data engineering is a real option, not just a plan
 - My first few open-source contributions — still zero, still the gap
 
