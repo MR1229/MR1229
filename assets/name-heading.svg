@@ -1,23 +1,24 @@
-<svg width="620" height="90" viewBox="0 0 620 90" xmlns="http://www.w3.org/2000/svg">
+<svg width="620" height="92" viewBox="0 0 620 92" xmlns="http://www.w3.org/2000/svg">
   <style>
     .greet {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
       font-weight: 300;
       font-size: 18px;
-      fill: #E8EDF2;
+      fill: #B8C4D0;
       letter-spacing: 8px;
     }
     .name {
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-family: Georgia, 'Times New Roman', serif;
       font-weight: 700;
-      font-size: 42px;
+      font-size: 44px;
       fill: #F5F8FA;
-      letter-spacing: 10px;
+      letter-spacing: 4px;
     }
-    .rule { stroke: #E8EDF2; stroke-width: 1; opacity: 0.35; }
+    .accent { fill: #C9A66B; }
+    .rule { stroke: #C9A66B; stroke-width: 1.5; }
   </style>
 
   <text x="310" y="28" text-anchor="middle" class="greet">HELLO, I&#8217;M</text>
-  <line x1="240" y1="42" x2="380" y2="42" class="rule"/>
-  <text x="310" y="78" text-anchor="middle" class="name">MAHESH PAWAR</text>
+  <line x1="270" y1="44" x2="350" y2="44" class="rule"/>
+  <text x="310" y="82" text-anchor="middle" class="name">MAHESH <tspan class="accent">PAWAR</tspan></text>
 </svg>
