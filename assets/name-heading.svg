@@ -9,9 +9,9 @@
     }
     .name {
       font-family: 'Segoe UI', Arial, sans-serif;
-      font-weight: 80;
-      font-size: 30px;
-      fill: #C5E2F5;
+      font-weight: 85;
+      font-size: 32px;
+      fill: #7BAFD4;
       letter-spacing: 4px;
       text-transform: uppercase;
     }
