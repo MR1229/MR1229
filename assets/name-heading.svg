@@ -1,25 +1,11 @@
-<svg width="620" height="80" viewBox="0 0 620 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="nameFlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2EC4B6">
-        <animate attributeName="stop-color" values="#2EC4B6; #FFC145; #FF6B5B; #2EC4B6" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#FFC145">
-        <animate attributeName="stop-color" values="#FFC145; #FF6B5B; #2EC4B6; #FFC145" dur="10s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#FF6B5B">
-        <animate attributeName="stop-color" values="#FF6B5B; #2EC4B6; #FFC145; #FF6B5B" dur="10s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
+<svg width="620" height="76" viewBox="0 0 620 76" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .name { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 40px; fill: url(#nameFlow); }
-    .wave { animation: wave 2.4s ease-in-out infinite; display: inline-block; transform-origin: 70% 70%; }
-    .fadein { animation: fadeIn 0.8s ease forwards; opacity: 0; }
-    @keyframes fadeIn { to { opacity: 1; } }
+    .greet { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 20px; fill: #9CA3AF; }
+    .name { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 38px; fill: #F4F4F5; }
+    .accent { fill: #2EC4B6; }
+    .rule { stroke: #2EC4B6; stroke-width: 2; }
   </style>
-  <g class="fadein">
-    <text x="300" y="52" text-anchor="middle" class="name">Hi, I&#8217;m Mahesh Pawar</text>
-    <text x="530" y="52" font-size="36" class="wave">👋</text>
-  </g>
+  <text x="310" y="30" text-anchor="middle" class="greet">Hi, I'm</text>
+  <text x="310" y="62" text-anchor="middle" class="name">Mahesh <tspan class="accent">Pawar</tspan></text>
+  <line x1="270" y1="70" x2="350" y2="70" class="rule"/>
 </svg>
