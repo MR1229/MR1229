@@ -1,4 +1,12 @@
 <svg width="620" height="92" viewBox="0 0 620 92" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="seaSky" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0B2545"/>
+      <stop offset="45%" stop-color="#1A4E8A"/>
+      <stop offset="75%" stop-color="#5B9BD5"/>
+      <stop offset="100%" stop-color="#BFE0F0"/>
+    </linearGradient>
+  </defs>
   <style>
     .greet {
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -11,14 +19,13 @@
       font-family: Georgia, 'Times New Roman', serif;
       font-weight: 700;
       font-size: 44px;
-      fill: #F5F8FA;
+      fill: url(#seaSky);
       letter-spacing: 4px;
     }
-    .accent { fill: #C9A66B; }
-    .rule { stroke: #C9A66B; stroke-width: 1.5; }
+    .rule { stroke: #5B9BD5; stroke-width: 1.5; opacity: 0.6; }
   </style>
 
   <text x="310" y="28" text-anchor="middle" class="greet">HELLO, I&#8217;M</text>
   <line x1="270" y1="44" x2="350" y2="44" class="rule"/>
-  <text x="310" y="82" text-anchor="middle" class="name">MAHESH <tspan class="accent">PAWAR</tspan></text>
+  <text x="310" y="82" text-anchor="middle" class="name">MAHESH PAWAR</text>
 </svg>
