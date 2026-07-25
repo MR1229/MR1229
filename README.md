@@ -1,41 +1,40 @@
 <p align="center">
-  <img src="./assets/name-heading.svg" alt="Hi, I'm Mahesh Pawar" />
+  <img src="./assets/name-heading.svg" alt="Hello, I'm Mahesh Pawar" />
 </p>
 
 <p align="center">
-  <sub>CSE undergrad who'd rather break something and rebuild it than read the docs cover to cover first.</sub>
+  <sub>CSE student, third year. I learn stuff by building it, breaking it, then figuring out why it broke.</sub>
 </p>
 
 <br/>
 
 ### About
 
-Third-year B.Tech CSE student. Learn by shipping, breaking, and figuring out why. Right now that's Java + DSA and real MERN projects with actual data models, not tutorial clones.
-
-I care more about understanding a system end to end than knowing the name of every framework — how data actually moves from a form submission to a database row and back.
+Doing my B.Tech in Computer Science. Most of what I actually know didn't come from a lecture — it came from building something small, hitting a wall, and sitting with it until it made sense. Right now that's Java + DSA, and full-stack projects that have a real database behind them instead of a hardcoded array pretending to be one.
 
 <br/>
 
 ### Currently
 
-- Writing DSA in Java daily — explaining why it works, not just passing
-- Building MERN apps with real schemas, not boilerplate
-- Learning Python + SQL as the on-ramp to data engineering
-- Reading enough AI/ML to know what to ask later
+- Java + DSA, daily — trying to actually explain *why* a solution works, not just get it accepted
+- MERN projects with real schemas and edge cases, not copy-pasted tutorial code
+- Picking up Spring Boot to go from MERN into proper Java full-stack
+- Python + SQL on the side, mainly because data engineering is where I want to end up
+- Reading a bit of AI/ML here and there, just enough to not be lost later
 
 <br/>
 
 ### Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mongodb,express,react,nodejs,git,github,mysql,docker,tensorflow&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mongodb,express,react,nodejs,spring,git,github,mysql,docker,tensorflow&theme=dark" alt="Tech stack" />
 </p>
 
 <hr/>
 
 ### Featured Work
 
-_A couple of real projects are landing here soon — worth checking back._
+Nothing linked here yet — a couple of projects are almost ready to be shown off properly.
 
 <hr/>
 
@@ -55,12 +54,12 @@ _A couple of real projects are landing here soon — worth checking back._
 
 <hr/>
 
-### Working toward
+### Working on
 
-- Real strength in Java + DSA, not memorized patterns
-- A couple of MERN projects worth linking on a resume
-- Python + SQL solid enough for data engineering
-- First few open-source PRs — currently the gap
+- Getting actually solid at Java + DSA, not pattern-matching my way through it
+- A couple of MERN (and soon Spring Boot) projects worth putting on a resume
+- Python + SQL to the point where data engineering is a real option, not just a plan
+- My first few open-source contributions — still zero, still the gap
 
 <hr/>
 
@@ -81,5 +80,5 @@ _A couple of real projects are landing here soon — worth checking back._
 <br/>
 
 <p align="center">
-  <sub>Updated as I go — this is a snapshot, not a finished product.</sub>
+  <sub>Last touched whenever I got around to it — not exactly a finished product.</sub>
 </p>
