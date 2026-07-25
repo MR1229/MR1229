@@ -9,8 +9,8 @@
     }
     .name {
       font-family: 'Arial Narrow', 'Helvetica Neue Condensed', Arial, sans-serif;
-      font-weight: 150;
-      font-size: 46px;
+      font-weight: 120;
+      font-size: 34px;
       fill: #FFFFFF;
       letter-spacing: 3px;
       text-transform: uppercase;
