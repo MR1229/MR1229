@@ -3,24 +3,24 @@
 </p>
 
 <p align="center">
-  <sub>CSE student, third year. I learn stuff by building it, breaking it, then figuring out why it broke.</sub>
+  <sub>CSE student, third year. I enjoy learning by building projects and solving real problems.</sub>
 </p>
 
 <br/>
 
 ### About
 
-Doing my B.Tech in Computer Science. Most of what I actually know didn't come from a lecture — it came from building something small, hitting a wall, and sitting with it until it made sense. Right now that's Java + DSA, and full-stack projects that have a real database behind them instead of a hardcoded array pretending to be one.
+I'm a B.Tech Computer Science student. I learn best by building projects, finding mistakes, and understanding how to fix them. Currently, I'm focusing on Java, Data Structures & Algorithms, and full-stack development with real databases.
 
 <br/>
 
 ### Currently
 
-- Java + DSA, daily — trying to actually explain *why* a solution works, not just get it accepted
-- MERN projects with real schemas and edge cases, not copy-pasted tutorial code
-- Learning Java full stack — Spring Boot and everything around it — to build the same kind of projects on the Java side that I've been building in MERN
-- Python + SQL on the side, mainly because data engineering is where I want to end up
-- Reading a bit of AI/ML here and there, just enough to not be lost later
+- Learning Java and DSA every day, with a focus on understanding the logic behind each solution
+- Building MERN projects with proper database design and real-world use cases
+- Learning Java Full Stack with Spring Boot to build complete backend applications
+- Exploring Python and SQL as I work toward data engineering
+- Learning the basics of AI/ML to build a strong foundation
 
 <br/>
 
@@ -34,7 +34,7 @@ Doing my B.Tech in Computer Science. Most of what I actually know didn't come fr
 
 ### Featured Work
 
-Nothing linked here yet — a couple of projects are almost ready to be shown off properly.
+Projects coming soon. I'm currently working on a few that I'll add here once they're ready.
 
 <hr/>
 
@@ -56,10 +56,10 @@ Nothing linked here yet — a couple of projects are almost ready to be shown of
 
 ### Working on
 
-- Getting actually solid at Java + DSA, not pattern-matching my way through it
-- MERN projects worth putting on a resume, and building the Java full-stack equivalent alongside them
-- Python + SQL to the point where data engineering is a real option, not just a plan
-- My first few open-source contributions — still zero, still the gap
+- Improving my Java and DSA skills
+- Building full-stack projects with MERN and Java Spring Boot
+- Strengthening my Python and SQL knowledge for data engineering
+- Making my first open-source contributions
 
 <hr/>
 
@@ -80,5 +80,5 @@ Nothing linked here yet — a couple of projects are almost ready to be shown of
 <br/>
 
 <p align="center">
-  <sub>Last touched whenever I got around to it — not exactly a finished product.</sub>
+  <sub>Always learning, building, and improving.</sub>
 </p>
