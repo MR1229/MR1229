@@ -32,11 +32,6 @@ I'm a B.Tech Computer Science student. Most of what I learn comes from building 
 
 <hr/>
 
-### Featured Work
-
-I'm working on a few projects right now. I'll add them here once they're ready.
-
-<hr/>
 
 ### GitHub Stats
 
