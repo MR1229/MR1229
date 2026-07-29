@@ -3,24 +3,24 @@
 </p>
 
 <p align="center">
-  <sub>CSE student, third year. I enjoy learning by building projects and solving real problems.</sub>
+  <sub>Third-year CSE student. I like learning by building projects and figuring out how things work.</sub>
 </p>
 
 <br/>
 
 ### About
 
-I'm a B.Tech Computer Science student. I learn best by building projects, finding mistakes, and understanding how to fix them. Currently, I'm focusing on Java, Data Structures & Algorithms, and full-stack development with real databases.
+I'm a B.Tech Computer Science student. Most of what I learn comes from building projects, making mistakes, and fixing them. Right now, I'm learning Java, DSA, and full-stack development by working on real projects.
 
 <br/>
 
 ### Currently
 
-- Learning Java and DSA every day, with a focus on understanding the logic behind each solution
-- Building MERN projects with proper database design and real-world use cases
-- Learning Java Full Stack with Spring Boot to build complete backend applications
-- Exploring Python and SQL as I work toward data engineering
-- Learning the basics of AI/ML to build a strong foundation
+- Learning Java and DSA every day
+- Building full-stack projects with the MERN stack
+- Learning Spring Boot and Java Full Stack
+- Exploring Python and SQL for data engineering
+- Reading about AI/ML whenever I get some free time
 
 <br/>
 
@@ -34,7 +34,7 @@ I'm a B.Tech Computer Science student. I learn best by building projects, findin
 
 ### Featured Work
 
-Projects coming soon. I'm currently working on a few that I'll add here once they're ready.
+I'm working on a few projects right now. I'll add them here once they're ready.
 
 <hr/>
 
@@ -56,9 +56,9 @@ Projects coming soon. I'm currently working on a few that I'll add here once the
 
 ### Working on
 
-- Improving my Java and DSA skills
-- Building full-stack projects with MERN and Java Spring Boot
-- Strengthening my Python and SQL knowledge for data engineering
+- Getting better at Java and DSA
+- Building better MERN and Spring Boot projects
+- Improving my Python and SQL skills
 - Making my first open-source contributions
 
 <hr/>
@@ -80,5 +80,5 @@ Projects coming soon. I'm currently working on a few that I'll add here once the
 <br/>
 
 <p align="center">
-  <sub>Always learning, building, and improving.</sub>
+  <sub>Still learning. Still building.</sub>
 </p>
