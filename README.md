@@ -6,24 +6,6 @@
   <sub>Third-year CSE student. I like learning by building projects and figuring out how things work.</sub>
 </p>
 
-<br/>
-
-### About
-
-I'm a B.Tech Computer Science student. Most of what I learn comes from building projects, making mistakes, and fixing them. Right now, I'm learning Java, DSA, and full-stack development by working on real projects.
-
-<br/>
-
-### Currently
-
-- Learning Java and DSA every day
-- Building full-stack projects with the MERN stack
-- Learning Spring Boot and Java Full Stack
-- Exploring Python and SQL for data engineering
-- Reading about AI/ML whenever I get some free time
-
-<br/>
-
 ### Stack
 
 <p align="left">
